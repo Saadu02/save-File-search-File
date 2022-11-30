@@ -69,16 +69,19 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Applikation startet | -        | -                  |
-| 1.2  | Applikation zeigt userinterface| Ordner suchen, Datei einfügen etc.| suchen, einfügen                  |
-| 2.1  | Applikation start, userinterface| Ordner erstellen| Ordner wird erstellt|
-| 3.1  | Applikation zeigt Ordner an| Ordner löschen| Ordner wird gelöscht|
-| 6.1  | Applikation zeigt Ordner an| Ordner umbennen| Ordner wird umbennant|
-| 7.1  | Applikation fügt Datei zu| Date auto sort to folder        | Datei wird automatisch sortiert|
-| 8.1  | Applikation start, userinterface| Fächer suchen| Fächer Datei/Ordner gefunden|
-| 9.1  | Applikation Begriff gefunden| -        | Dateien werden gezeigt                  |
+| 0.1  | Applikation startet | - | - |
+| 1.1  | Applikation zeigt userinterface | Ordner suchen | Such-option interface|
+| 1.2  | Applikation zeigt Such-option interface | Speicherort | Dateien von diesem Speicherort |
+| 1.3  | Applikation zeigt Such-option interface | Klick auf Datei | Vorschau popt auf |
+| 1.4  | Applikation zeigt Such-option interface | Datei wird ausgewählt | Zeigt Datei im Ordner |
+| 2.1  | Applikation zeigt userinterface | Datei hinzufügen | Datei-speicher interface |
+| 2.2  | Applikation zeigt Hinzufügen interface | Name | Speichert Datei so ab |
+| 2.3  | Applikation zeigt Hinzufügen interface | Text | Speichert den Text in der Datei ab |
+| 2.4  | Applikation zeigt Hinzufügen interface | Speichern | Fragt wo es gespeichert werden soll |
+| 2.5  | Applikation zeigt Datei-speicher interface | Speicherort | Datei wird dort abgespeichert |
+| 3.1  | Applikation zeigt Datei-speicher interface | Ordner erstellen| Name vom Ordner abfragen |
+| 3.2  | Applikation zeigt Datei-speicher interface | Name eingegeben | Wo Ordner speichern abfragen |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 [Mindmap Suchmaschine.pdf](https://github.com/Saadu02/such-maschine/files/9919148/Mindmap.Suchmaschine.pdf)
@@ -145,27 +148,15 @@ Als erstes haben wir entschieden das Programm als Website zuerstellen. Da wir Bl
 
 | TC-№ | Datum | Resultat | Überprüfer |
 | ---- | ----- | -------- | ---------- |
-| 1    | 30.11 | Fertig   | Mohammad   |
-| 2    | 30.11 | Fertig   | Mohammad   |
-| 3    | 30.11 | Fertig   | Mohammad   |
-| 4    | 30.11 | Fertig   | Mohammad   |
-| 5    | 30.11 | Fertig   | Mohammad   |
-| 6    | 30.11 | Fertig   | Mohammad   |
-| 7    | 30.11 | Fertig   | Mohammad   |
-| 8    | 30.11 | Fertig   | Mohammad   |
-| 9    | 30.11 | Fertig   | Mohammad   |
-| 10   | 30.11 | Fertig   | Mohammad   |
-| 11   | 30.11 | Fertig   | Mohammad   |
-| 12   | 30.11 | Fertig   | Mohammad   |
-| 13   | 30.11 | Fertig   | Mohammad   |
-| 14   | 30.11 | Fertig   | Mohammad   |
-| 15   | 30.11 | Fertig   | Mohammad   |
-| 16   | 30.11 | Fertig   | Mohammad   |
-
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+| 0.1  | 30.11 | Fertig   | Mohammad   |
+| 1.1  | 30.11 | Fertig   | Mohammad   |
+| 1.2  | 30.11 | Fertig   | Mohammad   |
+| 1.3  | 30.11 | Fertig   | Mohammad   |
+| 1.4  | 30.11 | Fertig   | Mohammad   |
+| 2.1  | 30.11 | Fertig   | Mohammad   |
+| 2.2  | 30.11 | Fertig   | Mohammad   |
+| 2.3  | 30.11 | Fertig   | Mohammad   |
+| 2.4  | 30.11 | Fertig   | Mohammad   |
+| 2.5  | 30.11 | Fertig   | Mohammad   |
+| 3.1  | 30.11 | Fertig   | Mohammad   |
+| 3.2  | 30.11 | Fertig   | Mohammad   |
