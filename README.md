@@ -160,3 +160,11 @@ Als erstes haben wir entschieden das Programm als Website zuerstellen. Da wir Bl
 | 2.5  | 30.11 | Fertig   | Mohammad   |
 | 3.1  | 30.11 | Fertig   | Mohammad   |
 | 3.2  | 30.11 | Fertig   | Mohammad   |
+
+## Auswerten
+
+
+[AB_Arbeitsjournal und Lernbericht.docx](https://github.com/Saadu02/save-File-search-File/files/10122376/AB_Arbeitsjournal.und.Lernbericht.docx)
+
+
+
